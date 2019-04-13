@@ -1,0 +1,10 @@
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\bin\Debug\SWE Final Lab Test.exe.config
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\bin\Debug\SWE Final Lab Test.exe
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\bin\Debug\SWE Final Lab Test.pdb
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE Final Lab Test.csprojAssemblyReference.cache
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE_Final_Lab_Test.Form1.resources
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE_Final_Lab_Test.Properties.Resources.resources
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE Final Lab Test.csproj.GenerateResource.cache
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE Final Lab Test.csproj.CoreCompileInputs.cache
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE Final Lab Test.exe
+C:\Users\M4aH1DuL MooN\source\repos\SWE Final Lab Test\SWE Final Lab Test\obj\Debug\SWE Final Lab Test.pdb
